@@ -1,0 +1,10 @@
+groq
+langchain
+streamlit
+langchain_community
+objectbox
+python_dotenv
+langchain_huggingface
+transformers  # for Hugging Face
+langchain_core
+
